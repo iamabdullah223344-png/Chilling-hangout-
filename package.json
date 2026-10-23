@@ -1,0 +1,13 @@
+
+{
+  "name": "chilling hangout 3",
+  "version": "1.0.0",
+  "description": "My first Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0"
+  }
+}
